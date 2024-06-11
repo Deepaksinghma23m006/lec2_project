@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.0
+Author: Deepak Singh
+Author-email: ma23m006@smail.iitm.ac.in
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
