@@ -1,0 +1,2 @@
+# whatever source code i am going to write it down throughout my project , i will be writing heredelf apart from jupyter notebook . so each and every line of code modular coding i will be doing over here itself inside my mcq generator folder
+# # what is need of __init__ file - if we want to handle this folder(mcqgenerator) as local package , folder which is containing a multiple python fileand inside the python file you have a code like a classes , functions and all  
