@@ -1,2 +1,4 @@
 env
 .env
+env/
+/Volumes/my_space/VSCODE/LLM starting/project_mcq_generator/experiment/.env

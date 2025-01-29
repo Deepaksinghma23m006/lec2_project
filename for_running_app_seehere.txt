@@ -1,0 +1,2 @@
+#for running application , just type in terminal,
+"streamlit run StreamlitAPP.py"
